@@ -1,0 +1,7 @@
+export const ADD_TODO="ADD_TODO"
+export const COMPLETE_TODO="COMPLETE_TODO"
+
+export const ALL_FILTER="ALL_FILTER"
+export const ACTIVE_FILTER="ACTIVE_FILTER"
+export const COMPLETED_FILTER="COMPLETED_FILTER"
+export const GET_ALL_TODOS="GET_ALL_TODOS"
